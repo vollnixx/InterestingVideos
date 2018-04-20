@@ -9,3 +9,4 @@ A Link collection with interesting videos
 * [Bryan Lunduke - Linux is Freaking Weird (2016)](https://www.youtube.com/watch?v=xPbAXKMCDkY)
 # Programming general
 * [Hadi Hariri - The Silver Bullet Syndrome (2015)](https://www.youtube.com/watch?v=3wyd6J3yjcs)
+* [Richard Feldman - Making Impossible States Impossible (2016)](https://www.youtube.com/watch?v=IcgmSRJHu_8)
