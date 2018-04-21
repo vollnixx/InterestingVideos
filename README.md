@@ -11,6 +11,7 @@ A Link collection with interesting videos
 * [git - Linus Torvalds (2007)](https://www.youtube.com/watch?v=4XpnKHJAok8)
 # Linux
 * [Linux is Freaking Weird - Bryan Lunduke (2016)](https://www.youtube.com/watch?v=xPbAXKMCDkY)
+* [The mind behind Linux - Linus Torvalds (2016)](https://www.youtube.com/watch?v=jnPSa8FozVc)
 # Mathematics
 * [P vs. NP and the Computational Complexity Zoo - Hackerdashery (2014)](https://www.youtube.com/watch?v=YX40hbAHx3s)
 # Programming general
