@@ -2,6 +2,8 @@
 A Link collection with interesting videos
 # Dataminig
 * [SpiegelMining – Reverse Engineering von Spiegel-Online - David Kriesel (2016)](https://www.youtube.com/watch?v=-YpwsdRKt8Q)
+# Javascript
+* [Wat - Gary Bernhardt (2012)](https://www.destroyallsoftware.com/talks/wat)
 # General
 * [Going Beyond - Sir Ranulph Fiennes (2012)](https://www.youtube.com/watch?v=3K_9SrHIcQ0)
 * [Methodisch inkorrekt! (34C3) - Nicolas Wöhrl, Reinhard Remfort (2017)](https://www.youtube.com/watch?v=rf9X-jyJq4w)
