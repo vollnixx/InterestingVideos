@@ -1,13 +1,15 @@
 # InterestingVideos
 A Link collection with interesting videos
+# Dataminig
+* [SpiegelMining – Reverse Engineering von Spiegel-Online - David Kriesel (2016)](https://www.youtube.com/watch?v=-YpwsdRKt8Q)
 # General
 * [Going Beyond - Sir Ranulph Fiennes (2012)](https://www.youtube.com/watch?v=3K_9SrHIcQ0)
 * [Tracker fahrn - Denis, Erdgeist, Cristian Yxen (2007)](https://media.ccc.de/v/24c3-2355-de-trecker_fahrn)
 # Git
-* [Linus Torvalds - git (2007)](https://www.youtube.com/watch?v=4XpnKHJAok8)
+* [git - Linus Torvalds (2007)](https://www.youtube.com/watch?v=4XpnKHJAok8)
 # Linux
-* [Bryan Lunduke - Linux is Freaking Weird (2016)](https://www.youtube.com/watch?v=xPbAXKMCDkY)
+* [Linux is Freaking Weird - Bryan Lunduke (2016)](https://www.youtube.com/watch?v=xPbAXKMCDkY)
 # Mathematics
-* [Hackerdashery - P vs. NP and the Computational Complexity Zoo (2014)](https://www.youtube.com/watch?v=YX40hbAHx3s)
+* [P vs. NP and the Computational Complexity Zoo - Hackerdashery (2014)](https://www.youtube.com/watch?v=YX40hbAHx3s)
 # Programming general
-* [Hadi Hariri - The Silver Bullet Syndrome (2015)](https://www.youtube.com/watch?v=3wyd6J3yjcs)
+* [The Silver Bullet Syndrome - Hadi Hariri (2015)](https://www.youtube.com/watch?v=3wyd6J3yjcs)
