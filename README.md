@@ -7,5 +7,7 @@ A Link collection with interesting videos
 * [Linus Torvalds - git (2007)](https://www.youtube.com/watch?v=4XpnKHJAok8)
 # Linux
 * [Bryan Lunduke - Linux is Freaking Weird (2016)](https://www.youtube.com/watch?v=xPbAXKMCDkY)
+# Mathematics
+* [Hackerdashery - P vs. NP and the Computational Complexity Zoo (2014)](https://www.youtube.com/watch?v=YX40hbAHx3s)
 # Programming general
 * [Hadi Hariri - The Silver Bullet Syndrome (2015)](https://www.youtube.com/watch?v=3wyd6J3yjcs)
