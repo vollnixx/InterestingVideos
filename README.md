@@ -3,6 +3,7 @@ A Link collection with interesting videos
 # Dataminig
 * [SpiegelMining – Reverse Engineering von Spiegel-Online - David Kriesel (2016)](https://www.youtube.com/watch?v=-YpwsdRKt8Q)
 # General
+* [Devs and Depression - Greg Baugues (2013)](https://www.youtube.com/watch?v=yFIa-Mc2KSk)
 * [Do schools kill creativity? - Sir Ken Robinson (2006)](https://www.youtube.com/watch?v=iG9CE55wbtY)
 * [Going Beyond - Sir Ranulph Fiennes (2012)](https://www.youtube.com/watch?v=3K_9SrHIcQ0)
 * [Methodisch inkorrekt! (32C3) - Nicolas Wöhrl, Reinhard Remfort (2015)](https://www.youtube.com/watch?v=zHnYPaUHm6Y)
