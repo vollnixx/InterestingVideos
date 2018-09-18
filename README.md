@@ -11,6 +11,8 @@ A Link collection with interesting videos
 * [Tracker fahrn (24C3) - Denis, Erdgeist, Cristian Yxen (2007)](https://media.ccc.de/v/24c3-2355-de-trecker_fahrn)
 # Git
 * [git - Linus Torvalds (2007)](https://www.youtube.com/watch?v=4XpnKHJAok8)
+# Javacript
+* [What the heck is the event loop anyway? - Philip Roberts (2014)](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 # Linux
 * [Linux is Freaking Weird - Bryan Lunduke (2016)](https://www.youtube.com/watch?v=xPbAXKMCDkY)
 * [The mind behind Linux - Linus Torvalds (2016)](https://www.youtube.com/watch?v=jnPSa8FozVc)
