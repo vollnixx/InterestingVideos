@@ -19,6 +19,8 @@ A Link collection with interesting videos
 * [The mind behind Linux - Linus Torvalds (2016)](https://www.youtube.com/watch?v=jnPSa8FozVc)
 # Mathematics
 * [P vs. NP and the Computational Complexity Zoo - Hackerdashery (2014)](https://www.youtube.com/watch?v=YX40hbAHx3s)
+# PHP
+* [Technically DDD - Pim Elshoff (2018)](https://www.youtube.com/watch?time_continue=1&v=aKBkpLj9-88)
 # Programming general
 * [The Silver Bullet Syndrome - Hadi Hariri (2015)](https://www.youtube.com/watch?v=3wyd6J3yjcs)
 * [Wat - Gary Bernhardt (2012)](https://www.destroyallsoftware.com/talks/wat)
