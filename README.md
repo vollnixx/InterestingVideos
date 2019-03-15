@@ -24,7 +24,7 @@ A Link collection with interesting videos
 # Programming general
 * [The Silver Bullet Syndrome - Hadi Hariri (2015)](https://www.youtube.com/watch?v=3wyd6J3yjcs)
 * [Wat - Gary Bernhardt (2012)](https://www.destroyallsoftware.com/talks/wat)
-# Security
+# Security/Hacking
 * [Compromising online accounts by cracking voicemail systems (35C3) - Martin Vigoz (2018)](https://www.youtube.com/watch?v=E4UPlB2l8t8)
 * [ Du kannst alles hacken – du darfst dich nur nicht erwischen lassen. (35C3) - Linus Neumann, Thorsten Schröder (2018)](https://www.youtube.com/watch?v=dTQAO7M5Gp8)
 * [Fighting Online Attacks (heise devSec) - Paula Januszkiewicz (2018)](https://vimeo.com/297288936)
