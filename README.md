@@ -25,5 +25,7 @@ A Link collection with interesting videos
 * [The Silver Bullet Syndrome - Hadi Hariri (2015)](https://www.youtube.com/watch?v=3wyd6J3yjcs)
 * [Wat - Gary Bernhardt (2012)](https://www.destroyallsoftware.com/talks/wat)
 # Security
-* [Compromising online accounts by cracking voicemail systems (35C3) - Martin Vigo (2018)](https://www.youtube.com/watch?v=E4UPlB2l8t8)
+* [Compromising online accounts by cracking voicemail systems (heise devSec) - Paula Januszkiewicz (2018)](https://vimeo.com/297288936)
+* [Fighting Online Attacks (heise devSec) - Paula Januszkiewicz (2018)](https://vimeo.com/297288936)
+* [Think and Act Like a Hacker to Protect Your Company’s Assets (35C3) - Mikko Hyppönen (2018)](https://vimeo.com/297278336)
 * [Venenerkennung hacken (35C3) - Starbug (2018)](https://www.youtube.com/watch?v=FsZE6fyF26U)
