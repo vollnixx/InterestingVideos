@@ -2,6 +2,7 @@
 A Link collection with interesting videos
 # Dataminig
 * [SpiegelMining – Reverse Engineering von Spiegel-Online - David Kriesel (2016)](https://www.youtube.com/watch?v=-YpwsdRKt8Q)
+* [BahnMining – Pünktlichkeit ist eine Zier - David Kriesel (2019)](https://www.youtube.com/watch?v=0rb9CfOvojk)
 # General
 * [Devs and Depression - Greg Baugues (2013)](https://www.youtube.com/watch?v=yFIa-Mc2KSk)
 * [Do schools kill creativity? - Sir Ken Robinson (2006)](https://www.youtube.com/watch?v=iG9CE55wbtY)
